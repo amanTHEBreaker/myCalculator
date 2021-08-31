@@ -145,6 +145,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun completeClear() {
+        result_ids.text = ""
         digit_on_screen.clear()
     }
 
