@@ -9,7 +9,7 @@ Here I developed my first Android app in Kotlin a *Simple Calculator* with the h
   - Little bit about OOPs in kotlin
 
 ## Future Scope :
-  Due to time constrint, I made a little buggy Android apps (well this is my first android app in Kotlin)
+  Due to time constrint, I made a little buggy calculator (well this is my first android app in Kotlin)
   - [ ] Improve the User Interface
   - [ ] Add Splash Screen
   - [ ] Add unit/currency/distance etc converters
