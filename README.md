@@ -18,6 +18,6 @@ Here I developed my first Android app in Kotlin a *Simple Calculator* with the h
 ## Walkthrough : 
 
 <img src='https://github.com/amanTHEBreaker/myCalculator-DeveloperDays-Android-1/blob/master/calculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
- https://github.com/amanTHEBreaker/myCalculator-DeveloperDays-Android-1/blob/master/calculator.gif
+
   
   
