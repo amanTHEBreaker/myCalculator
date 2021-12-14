@@ -1,4 +1,4 @@
-# Week 1 : Android Challenge
+# Calculator
 
 Here I developed my first Android app in Kotlin a *Simple Calculator* with the help of *'how to'* [article](https://medium.com/@olajhidey/how-to-build-a-simple-calculator-app-in-android-studio-using-kotlin-9b942c2d1f15)
 
